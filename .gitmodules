@@ -1,0 +1,6 @@
+[submodule "ondkost-back_end"]
+	path = ondkost-back_end
+	url = https://github.com/ondodox-js/ondkost-back_end.git
+[submodule "ondkost-front_end"]
+	path = ondkost-front_end
+	url = https://github.com/ondodox-js/ondkost-front_end.git
